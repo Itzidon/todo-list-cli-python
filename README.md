@@ -28,7 +28,9 @@ Aparecerá un menú con estas opciones:
 1. Agregar tarea
 2. Ver tareas
 3. Eliminar tarea
-4. Salir
+4. Guardar tareas
+5. Cargar tareas
+6. Salir
 
 ## Funciones principales
 
