@@ -19,7 +19,23 @@ Aplicación de línea de comandos desarrollada en Python para gestionar una list
 
 ## Cómo ejecutar
 
-Desde esta carpeta:
+Desde esta carpeta, ejecuta:
 
-```bash
 python app.py
+
+Aparecerá un menú con estas opciones:
+
+1. Agregar tarea
+2. Ver tareas
+3. Eliminar tarea
+4. Salir
+
+## Funciones principales
+
+- add_one_task(title)
+- print_list()
+- delete_task(number_to_delete)
+- save_todos()
+- load_todos()
+
+El archivo todos.csv se genera automáticamente al guardar tareas.
